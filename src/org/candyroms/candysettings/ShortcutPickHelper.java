@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2011 The CyanogenMod Project
+ *					2017 CandyRoms
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.gzr.candysettings;
+package com.candyroms.candysettings;
 
 import java.net.URISyntaxException;
 import java.util.ArrayList;
@@ -41,7 +42,7 @@ import android.widget.ExpandableListView;
 import android.widget.TextView;
 
 import com.android.settings.R;
-import com.gzr.candysettings.ShortcutPickHelper.AppExpandableAdapter.GroupInfo;
+import com.candyroms.candysettings.ShortcutPickHelper.AppExpandableAdapter.GroupInfo;
 
 public class ShortcutPickHelper {
 

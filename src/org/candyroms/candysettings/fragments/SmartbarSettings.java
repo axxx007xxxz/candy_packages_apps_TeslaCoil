@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2016 The DirtyUnicorns Project
+ *					2017 CandyRoms
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.gzr.candysettings.fragments;
+package com.candyroms.candysettings.fragments;
 
 import java.io.File;
 import java.io.FileFilter;
@@ -60,7 +61,7 @@ import com.android.internal.utils.du.Config;
 import com.android.internal.utils.du.Config.ButtonConfig;
 import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
-import com.gzr.candysettings.preference.CustomSeekBarPreference;
+import com.candyroms.candysettings.preference.CustomSeekBarPreference;
 
 import net.margaritov.preference.colorpicker.ColorPickerPreference;
 

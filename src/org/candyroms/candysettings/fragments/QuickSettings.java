@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2015-2016 The Dirty Unicorns Project
+ *					2017 CandyRoms
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.gzr.candysettings.fragments;
+package com.candyroms.candysettings.fragments;
 
 import android.app.ActivityManagerNative;
 import android.content.Context;
@@ -47,7 +48,7 @@ import com.android.internal.logging.MetricsProto.MetricsEvent;
 import com.android.internal.widget.LockPatternUtils;
 import com.android.settings.Utils;
 
-import com.gzr.candysettings.preference.CustomSeekBarPreference;
+import com.candyroms.candysettings.preference.CustomSeekBarPreference;
 
 public class QuickSettings extends SettingsPreferenceFragment implements OnPreferenceChangeListener {
 

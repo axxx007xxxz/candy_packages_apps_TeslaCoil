@@ -1,4 +1,4 @@
-package com.gzr.candysettings.fragments;
+package com.candyroms.candysettings.fragments;
 
 import android.app.Activity;
 import android.app.AlertDialog;

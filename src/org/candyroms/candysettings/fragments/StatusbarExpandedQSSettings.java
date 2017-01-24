@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2016 DarkKat
+ *					2017 CandyRoms
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.gzr.candysettings.fragments;
+package com.candyroms.candysettings.fragments;
 
 import android.content.ContentResolver;
 import android.content.res.Resources;

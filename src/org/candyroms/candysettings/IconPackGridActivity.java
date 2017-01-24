@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2016 The DirtyUnicorns Project
+ *					2017 CandyRoms
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -16,7 +17,7 @@
  * GridView displaying all the available icons in a Icon pack.
  */
 
-package com.gzr.candysettings;
+package com.candyroms.candysettings;
 
 import java.io.IOException;
 import java.io.InputStream;

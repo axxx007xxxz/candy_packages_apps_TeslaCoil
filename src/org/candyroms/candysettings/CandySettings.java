@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2014-2016 The Dirty Unicorns Project
+ *					2017 CandyRoms
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.gzr.candysettings;
+package com.candyroms.candysettings;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -47,12 +48,12 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
-import com.gzr.candysettings.tabs.System;
-import com.gzr.candysettings.tabs.Lockscreen;
-import com.gzr.candysettings.tabs.StatusBar;
-import com.gzr.candysettings.tabs.Navigation;
-import com.gzr.candysettings.tabs.MultiTasking;
-import com.gzr.candysettings.PagerSlidingTabStrip;
+import com.candyroms.candysettings.tabs.System;
+import com.candyroms.candysettings.tabs.Lockscreen;
+import com.candyroms.candysettings.tabs.StatusBar;
+import com.candyroms.candysettings.tabs.Navigation;
+import com.candyroms.candysettings.tabs.MultiTasking;
+import com.candyroms.candysettings.PagerSlidingTabStrip;
 import com.android.settings.R;
 import com.android.settings.dashboard.SummaryLoader;
 import com.android.settings.SettingsPreferenceFragment;

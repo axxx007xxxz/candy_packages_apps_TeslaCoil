@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2014 The Dirty Unicorns Project
+ *					2017 CandyRoms
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.gzr.candysettings.fragments;
+package com.candyroms.candysettings.fragments;
 
 import android.content.Context;
 import android.content.ContentResolver;
@@ -32,7 +33,7 @@ import com.android.settings.R;
 import com.android.internal.logging.MetricsProto.MetricsEvent;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.settings.Utils;
-import com.gzr.candysettings.preference.CustomSeekBarPreference;
+import com.candyroms.candysettings.preference.CustomSeekBarPreference;
 
 public class PowerMenu extends SettingsPreferenceFragment implements OnPreferenceChangeListener {
     private static final String KEY_ADVANCED_REBOOT = "advanced_reboot";

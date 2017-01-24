@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--  Copyright (C) 2014-2016 The Dirty Unicorns Project
+					2017 CandyRoms
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -30,7 +31,7 @@
             android:entryValues="@array/immersive_recents_values"
             android:persistent="false" />
 
-          <com.gzr.candysettings.preference.SystemSettingSwitchPreference
+          <com.candyroms.candysettings.preference.SystemSettingSwitchPreference
             android:key="show_clear_all_recents"
             android:title="@string/show_clear_all_recents_button_title"
             android:summary="@string/show_clear_all_recents_button_summary"

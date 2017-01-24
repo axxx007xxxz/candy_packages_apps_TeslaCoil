@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2017 GZR
+ 					2017 CandyRoms
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -13,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.gzr.candysettings.fragments;
+package com.candyroms.candysettings.fragments;
 
 import android.content.ContentResolver;
 import android.content.Context;
@@ -31,7 +32,7 @@ import android.view.View;
 import android.widget.LinearLayout;
 
 import com.android.settings.R;
-import com.gzr.candysettings.preference.CustomSeekBarPreference;
+import com.candyroms.candysettings.preference.CustomSeekBarPreference;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.internal.logging.MetricsProto.MetricsEvent;
 

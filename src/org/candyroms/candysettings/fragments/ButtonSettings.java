@@ -1,5 +1,6 @@
 /*
  *  Copyright (C) 2016 The Dirty Unicorns Project
+ *					2017 CandyRoms
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -16,7 +17,7 @@
  *
  */
 
-package com.gzr.candysettings.fragments;
+package com.candyroms.candysettings.fragments;
 
 import android.content.ContentResolver;
 import android.content.res.Resources;

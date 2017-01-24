@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--  Copyright (C) 2014-2016 The Dirty Unicorns Project
+					2017 CandyRoms
 
   This program is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
@@ -23,7 +24,7 @@
 
          <Preference
             android:key="powermenu"
-            android:fragment="com.gzr.candysettings.fragments.PowerMenu"
+            android:fragment="com.candyroms.candysettings.fragments.PowerMenu"
             android:layout="@layout/preference_powermenu"
             android:title="@string/powermenu_category" />
 

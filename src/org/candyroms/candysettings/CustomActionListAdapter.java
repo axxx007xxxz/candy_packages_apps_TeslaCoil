@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2015 TeamEos project
+ *					2017 CandyRoms
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -16,7 +17,7 @@
  * Adapter for displaying custom actions in a list
  */
 
-package com.gzr.candysettings;
+package com.candyroms.candysettings;
 
 import java.util.ArrayList;
 import java.util.List;

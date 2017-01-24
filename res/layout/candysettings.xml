@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--  Copyright (C) 2014-2015 The Dirty Unicorns Project
+					2017 CandyRoms
 
   This program is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
@@ -23,7 +24,7 @@
     android:orientation="vertical"
     android:fitsSystemWindows="true">
 
-    <com.gzr.candysettings.PagerSlidingTabStrip
+    <com.candyroms.candysettings.PagerSlidingTabStrip
         android:id="@+id/tabs"
         android:layout_width="match_parent"
         android:layout_height="48dp" />

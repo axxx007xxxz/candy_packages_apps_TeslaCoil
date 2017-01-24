@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2015 TeamEos project
+ *					2017 CandyRoms
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -18,7 +19,7 @@
  * key is identical to the target ConfigMap tag in ActionConstants 
  */
 
-package com.gzr.candysettings.preference;
+package com.candyroms.candysettings.preference;
 
 import java.util.Map;
 

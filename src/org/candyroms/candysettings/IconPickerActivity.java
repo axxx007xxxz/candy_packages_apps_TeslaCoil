@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2016 The DirtyUnicorns Project
+ *					2017 CandyRoms
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -16,7 +17,7 @@
  * Display installed icons packs that we are able to parse and get an icon from
  */
 
-package com.gzr.candysettings;
+package com.candyroms.candysettings;
 
 import java.io.InputStream;
 import java.util.ArrayList;
@@ -109,7 +110,7 @@ public class IconPickerActivity extends Activity implements DialogInterface.OnCa
                 String packageName = info.activityInfo.packageName;
                 Intent intent = new Intent();
                 intent.setClassName("com.android.settings",
-                        "com.gzr.candysettings.IconPackGridActivity");
+                        "com.candyroms.candysettings.IconPackGridActivity");
                 intent.putExtra("icon_package_name", packageName);
                 dialog.dismiss();
                 startActivityForResult(intent, ICON_PACK_ICON_RESULT);

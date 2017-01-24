@@ -1,5 +1,6 @@
 /**
  * Copyright (C) 2016 The DirtyUnicorns Project
+ *					2017 CandyRoms
  * Author: Randall Rushing <randall.rushing@gmail.com>
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -17,7 +18,7 @@
  * Wrapper class for delivering icon picker results to activities or fragments
  */
 
-package com.gzr.candysettings;
+package com.candyroms.candysettings;
 
 import java.io.File;
 
@@ -39,7 +40,7 @@ public class IconPickHelper {
     public static final int REQUEST_PICK_ICON_PACK = 100;
     public static final int REQUEST_PICK_ICON_GALLERY = 101;
     public static final String INTENT_ACTION_EDIT_CLASS = "com.android.settings";
-    public static final String INTENT_ACTION_ICON_PICKER_COMPONENT = "com.gzr.candysettings.IconPickerActivity";
+    public static final String INTENT_ACTION_ICON_PICKER_COMPONENT = "com.candyroms.candysettings.IconPickerActivity";
     private static final int REQUEST_CODE_ICON_PACK = 420;
     private static final int REQUEST_CODE_GALLERY = 1337;
     private Activity mParent;

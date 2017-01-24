@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2013 The CyanogenMod project
+ *					2017 CandyRoms
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.gzr.candysettings.preference;
+package com.candyroms.candysettings.preference;
 
 import android.content.Context;
 import android.support.v14.preference.SwitchPreference;

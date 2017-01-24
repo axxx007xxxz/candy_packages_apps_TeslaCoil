@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2014-2016 The Dirty Unicorns Project
+ 					2017 CandyRoms
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.gzr.candysettings.tabs;
+package com.candyroms.candysettings.tabs;
 
 import android.content.Context;
 import android.content.ContentResolver;

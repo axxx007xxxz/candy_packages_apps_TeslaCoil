@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2015 TeamEos project
+ *					2017 CandyRoms
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -17,7 +18,7 @@
  * class that holds target widget state
  */
 
-package com.gzr.candysettings.fragments;
+package com.candyroms.candysettings.fragments;
 
 import java.util.ArrayList;
 
@@ -29,9 +30,9 @@ import com.android.internal.utils.du.Config;
 import com.android.internal.utils.du.Config.ActionConfig;
 import com.android.internal.utils.du.Config.ButtonConfig;
 
-import com.gzr.candysettings.ShortcutPickHelper;
-import com.gzr.candysettings.preference.ActionPreference;
-import com.gzr.candysettings.CustomActionListAdapter;
+import com.candyroms.candysettings.ShortcutPickHelper;
+import com.candyroms.candysettings.preference.ActionPreference;
+import com.candyroms.candysettings.CustomActionListAdapter;
 
 import android.app.AlertDialog;
 import android.app.Dialog;

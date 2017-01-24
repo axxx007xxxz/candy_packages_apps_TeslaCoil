@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2015-2016 DirtyUnicorns Project
+ *                  2017 CandyRoms
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -17,11 +18,11 @@
  * ActionHandler framework
  */
 
-package com.gzr.candysettings;
+package com.candyroms.candysettings;
 
 import com.android.internal.utils.du.Config.ActionConfig;
 import com.android.settings.R;
-import com.gzr.candysettings.CustomActionListAdapter;
+import com.candyroms.candysettings.CustomActionListAdapter;
 
 import android.app.Activity;
 import android.app.AlertDialog;

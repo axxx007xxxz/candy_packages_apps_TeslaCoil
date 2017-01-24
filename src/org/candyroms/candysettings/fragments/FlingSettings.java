@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2014 TeamEos
+ *					2017 CandyRoms
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,13 +15,13 @@
  * limitations under the License.
  */
 
-package com.gzr.candysettings.fragments;
+package com.candyroms.candysettings.fragments;
 
 import java.util.ArrayList;
 
 import net.margaritov.preference.colorpicker.ColorPickerPreference;
 
-import com.gzr.candysettings.preference.CustomSeekBarPreference;
+import com.candyroms.candysettings.preference.CustomSeekBarPreference;
 
 import com.android.internal.logging.MetricsLogger;
 import com.android.internal.logging.MetricsProto.MetricsEvent;
@@ -29,8 +30,8 @@ import com.android.internal.utils.du.ActionHandler;
 import com.android.internal.utils.du.DUActionUtils;
 import com.android.internal.utils.du.Config.ButtonConfig;
 import com.android.settings.R;
-import com.gzr.candysettings.IconPickHelper;
-import com.gzr.candysettings.preference.ActionPreference;
+import com.candyroms.candysettings.IconPickHelper;
+import com.candyroms.candysettings.preference.ActionPreference;
 
 import android.app.ActionBar;
 import android.content.Context;

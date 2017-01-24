@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2016 The DirtyUnicorns Project
+     				2017 CandyRoms
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -44,7 +45,7 @@
         android:entryValues="@array/smartbar_button_animation_values"
         android:summary="@string/smartbar_button_animation_summary" />
 
-    <com.gzr.candysettings.preference.CustomSeekBarPreference
+    <com.candyroms.candysettings.preference.CustomSeekBarPreference
         android:key="navbar_buttons_alpha"
         android:title="@string/navbar_buttons_alpha_title"
         settings:max="255"
@@ -52,7 +53,7 @@
         settings:units=""
         android:persistent="false" />
 
-    <com.gzr.candysettings.preference.SystemSettingSwitchPreference
+    <com.candyroms.candysettings.preference.SystemSettingSwitchPreference
         android:key="navbar_tint_switch"
         android:title="@string/navbar_tint_switch"
         android:defaultValue="false" />
